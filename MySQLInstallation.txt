@@ -1,0 +1,7 @@
+Followed Programming with Mosh tutorial
+
+Go to "mysql.com => Downloads => MySQL Community (GPL) Downloads => MySQL Community Server" or search MySQL Community Server 
+then go for recommended download
+
+
+Just press "Next" and enter password for root (admin) and remember it (in my case root is the password)
